@@ -9,8 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0</version>
     <modules>
-        <module>StreamTests</module>
-        <module>Core</module>
+        <module>core</module>
+        <module>streamTests</module>
+        <module>connectProjects</module>
     </modules>
 
     <properties>

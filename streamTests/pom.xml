@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>gr.mammos.practice.stream.tests</groupId>
-    <artifactId>StreamTests</artifactId>
+    <artifactId>streamTests</artifactId>
     <packaging>jar</packaging>
 
     <properties>
@@ -21,7 +21,7 @@
     <dependencies>
         <dependency>
             <groupId>gr.mammos.practice.core</groupId>
-            <artifactId>Core</artifactId>
+            <artifactId>core</artifactId>
             <version>1.0</version>
             <scope>compile</scope>
         </dependency>
