@@ -11,6 +11,7 @@
 
     <groupId>gr.mammos.practice.core</groupId>
     <artifactId>Core</artifactId>
+    <packaging>jar</packaging>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
