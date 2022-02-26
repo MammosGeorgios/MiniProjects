@@ -12,6 +12,7 @@
         <module>core</module>
         <module>streamTests</module>
         <module>connectProjects</module>
+        <module>operators</module>
     </modules>
 
     <dependencies>
