@@ -13,6 +13,8 @@
         <module>streamTests</module>
         <module>connectProjects</module>
         <module>operators</module>
+        <module>random_stuff</module>
+        <module>leetcode</module>
     </modules>
 
     <dependencies>
