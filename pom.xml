@@ -15,6 +15,7 @@
         <module>operators</module>
         <module>random_stuff</module>
         <module>leetcode</module>
+        <module>performance</module>
     </modules>
 
     <dependencies>
