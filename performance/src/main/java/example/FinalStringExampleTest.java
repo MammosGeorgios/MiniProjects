@@ -4,7 +4,7 @@ import org.openjdk.jmh.annotations.*;
 
 import java.util.concurrent.TimeUnit;
 
-public class FinalExample {
+public class FinalStringExampleTest {
 
 
 //    Benchmark                           Mode  Cnt  Score   Error  Units
