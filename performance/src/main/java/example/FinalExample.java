@@ -7,7 +7,6 @@ import java.util.concurrent.TimeUnit;
 public class FinalExample {
 
 
-
 //    Benchmark                           Mode  Cnt  Score   Error  Units
 //    FinalExample.concatFinalStrings     avgt    5  0,384 ± 0,015  ns/op
 //    FinalExample.concatNonFinalStrings  avgt    5  4,335 ± 0,093  ns/op
